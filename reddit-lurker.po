@@ -1,0 +1,49 @@
+# Reddit Lurker
+# Copyright (C) 2013 Outplug
+# This file is distributed under the same license as the Reddit Lurker package.
+# OutPlug <hello@outplug.net>, 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-24 02:14+0200\n"
+"PO-Revision-Date: 2013-06-24 02:14+0200\n"
+"Last-Translator: Outplug <hello@outplug.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:83
+msgid "(comments)"
+msgstr ""
+
+#: index.php:109
+msgid "Save Changes"
+msgstr ""
+
+#: index.php:118
+msgid "Settings"
+msgstr ""
+
+#: index.php:119
+msgid "Limit Overview"
+msgstr ""
+
+#: index.php:120
+msgid "Limit Comments"
+msgstr ""
+
+#: index.php:125
+msgid ""
+"<p>You start using this plugin by creating a page containing the shortcode "
+"<i>[reddit-lurker subreddit=\"<b>name</b>\"]</i>.</p>"
+msgstr ""
+
+#: index.php:126
+msgid ""
+"<p>Here you can set the limits for how many items to fetch for overview and "
+"comment pages (or 0 for Reddit's defaults).</p>"
+msgstr ""
